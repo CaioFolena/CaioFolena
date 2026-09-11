@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**CaioFolena/CaioFolena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Caio Folena**, a Computer Engineering student (4th Semester) at IBMR, based in Rio de Janeiro, Brazil.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Skills & Interests
+* **Focus Areas:** Cybersecurity & Computer Networks
+* **Development:** Front-end Development, Java
+* **Languages:** Fluent English, Native Portuguese
+
+---
+
+##  Current Focus
+*  Studying Java and AI through the **Itaú + DIO Bootcamp**
+*  Working on Cisco NetAcad labs, network topology design, and virtualized environments
+*  Actively seeking Internship and Entry-Level opportunities in Tech
